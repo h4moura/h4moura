@@ -37,7 +37,7 @@
 ### Redes Sociais
 <div>  
   <a href="https://www.linkedin.com/in/halyson-moura-9b7288270" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://wa.me/11972225978" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+  <a href="https://wa.me/5511972225978" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B000E1&height=120&section=footer"/>
